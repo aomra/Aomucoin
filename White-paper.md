@@ -23,3 +23,10 @@ Support aomu who is running
 to the mooooooon.
 
 2019.02.09
+
+<No this, no that>
+
+no ICO
+no exchange
+
+2019.02.28
