@@ -29,8 +29,7 @@ to the mooooooon.
 no ICO
 no exchange
 
-<Usage of Aomucoin>
-
+@Usage of Aomucoin
 Throw to someone.
 Practice remittance.
 Keep it in memory.
