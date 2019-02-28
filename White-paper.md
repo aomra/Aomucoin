@@ -29,4 +29,12 @@ to the mooooooon.
 no ICO
 no exchange
 
+<Usage of Aomucoin>
+
+Throw to someone.
+Practice remittance.
+Keep it in memory.
+It is used for present planning.
+People who have it are companions.
+
 2019.02.28
