@@ -37,3 +37,17 @@ It is used for present planning.
 People who have it are companions.
 
 2019.02.28
+
+aomucoin
+https://etherscan.io/token/0xc2dd62b809de9409fda30d5c222b1f30a850ed84
+
+contract:
+0xc2dd62b809de9409fda30d5c222b1f30a850ed84
+
+Decimals:
+18
+
+Total Supply:
+100,000,000 aomu
+
+2020.05.04
